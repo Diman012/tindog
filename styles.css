@@ -1,0 +1,171 @@
+p {
+  font-size:1.3rem;
+  color:#8f8f8f;
+}
+h1, h2, h3, h4, h5 h6 {
+  font-family:'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family:'Montserrat', sans-serif;
+  font-size:4rem;
+  line-height:1.5;
+  font-weight:bold;
+}
+
+#title {
+  background-color:#ff4c68;
+  position:relative;
+  z-index:2;
+}
+
+.heading {
+  font-family:'Montserrat', sans-serif;
+  font-weight:bold;
+  font-size:4rem;
+  line-height: 1.5;
+  margin-bottom:50px;
+  margin-top:50px;
+  color:white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.top-heading {
+  font-size:2.7rem;
+  font-weight:bold;
+  margin-bottom:50px;
+}
+
+.top-link {
+  position:relative;
+  left:170px;
+  font-size:1.3rem;
+  margin-right:70px;
+}
+
+.download-button {
+  font-size:30px;
+}
+
+.title-image {
+  width:60%;
+  transform: rotate(25deg);
+  top:90px;
+  z-index:-1;
+  position:relative;
+}
+
+#features {
+  margin:200px 170px 170px 170px;
+  position:relative;
+  left:40px;
+  text-align:center;
+  font-family:'Montserrat', sans-serif;
+  background-color:white;
+  z-index:-1;
+}
+
+
+.features-heading {
+  margin-top:40px;
+  font-weight:bold;
+  font-size:1.5rem;
+}
+
+.features-desc {
+  color:#8f8f8f;
+
+}
+
+.logo {
+  color:#ef8172;
+}
+
+.logo:hover {
+  color:#ff4c68;
+}
+
+
+/* Testimonials section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align:center;
+  background-color:#ef8172;
+  color:#fff;
+}
+
+
+.testimonials-img {
+  width:10%;
+  border-radius:100%;
+  margin:20px;
+}
+
+#press {
+  background-color:#ef8172;
+  text-align:center;
+  padding-bottom:3%;
+  padding-right:100px;
+}
+
+.press-logo {
+  width:15%;
+  margin:20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonials-img2 {
+  width:40%;
+  border-radius:100%;
+}
+
+#pricing {
+  padding:100px;
+  text-align:center;
+}
+
+.pricing-column {
+  padding:3% 2%;
+}
+
+
+.bottom-section {
+  text-align:center;
+  background-color:#ff4c68;
+  height:500px;
+  width:1900px;
+}
+
+.header-bottom {
+  font-family:'Montserrat', sans-serif;
+  font-size:3rem;
+  font-weight:bold;
+  margin-bottom:50px;
+  color:white;
+  position:relative;
+  top:130px;
+}
+
+
+.bottom-section-button {
+  position:relative;
+  top:120px;
+  font-size:30px;
+}
+
+#footer {
+  text-align:center;
+  margin:100px;
+  padding:10px;
+}
+
+.social-icon {
+  padding:10px;
+}
